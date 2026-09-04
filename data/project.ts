@@ -1,4 +1,4 @@
-export const GOOGLE_FORM_URL = "REPLACE_WITH_GOOGLE_FORM_URL";
+export const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfzI1aEf0-e4N3uAwRoSAUTo3vXJ6c9y-mC1XPdwMdAz6UBDw/viewform?usp=publish-editor";
 
 export const projectInfo = {
   name: "Matoshree Gurukul",
